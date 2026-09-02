@@ -1,0 +1,1248 @@
+[
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "price": 29999,
+    "category": "audio",
+    "rating": 4.8,
+      
+     
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLgQ0u7RV2G_fAChEyScXkM4sOH9mWuYkZMvRU2QnlCA&s=10"
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-CH720N",
+    "brand": "Sony",
+    "price": 9999,
+    "category": "audio",
+    "rating": 4.5,
+      
+     
+    "color": "Blue",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyX_X0T1Azw0Hqic56-R6oHCfxj1BjgNrr5T6raIJcFA&s=10"
+  },
+  {
+    "id": 3,
+    "name": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "price": 24999,
+    "category": "audio",
+    "rating": 4.7,
+      
+     
+    "color": "White",
+    "image": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/apple/493839243/7/kQFjn4PeR4-4hpWpER3L5-apple-airpods-pro-2ndgen-493839243-i-8-1200Wx1200H.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Apple AirPods 4",
+    "brand": "Apple",
+    "price": 12999,
+    "category": "audio",
+    "rating": 4.6,
+      
+     
+    "color": "White",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWpE17g2yuEsaeHZbZ6hsZIq3B44BZKr0XRUe3LHhRw&s=10"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "brand": "Samsung",
+    "price": 17999,
+    "category": "audio",
+    "rating": 4.5,
+      
+     
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ncXE6gDMRGBYGDdp2Y9rsed1lBUYB36dH-pzD6izfw&s=10"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Buds 3",
+    "brand": "Samsung",
+    "price": 12999,
+    "category": "audio",
+    "rating": 4.4,
+      
+     
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIROUJFvG2OKgdN0uPdhTm-heAQ-t-4hke6_Uvc-INkA&s"
+  },
+  {
+    "id": 7,
+    "name": "OnePlus Buds Pro 3",
+    "brand": "OnePlus",
+    "price": 11999,
+    "category": "audio",
+    "rating": 4.4,
+      
+     
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_3xJwHs5TXoL_OtFIIjntCOBn0n1bBY4I6J678L4GA&s=10"
+  },
+  {
+    "id": 8,
+    "name": "OnePlus Nord Buds 3 Pro",
+    "brand": "OnePlus",
+    "price": 3299,
+    "category": "audio",
+    "rating": 4.3,
+      
+     
+    "color": "Lunar Radiance",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSroFvBhslUFYWJOmdhpNUlgEvuKxLj1DZF2PRO83ijTA&s=10"
+  },
+  {
+    "id": 9,
+    "name": "JBL Charge 5",
+    "brand": "JBL",
+    "price": 14999,
+    "category": "audio",
+    "rating": 4.6,
+      
+     
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_n5KN6ZNAUFXFcFJG3Nhwai6QqwAHRCn7eAgDN_Cdg&s=10"
+  },
+  {
+    "id": 10,
+    "name": "JBL Flip 6",
+    "brand": "JBL",
+    "price": 9999,
+    "category": "audio",
+    "rating": 4.5,
+      
+     
+    "color": "Blue",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FFlR0OngSMa7BjBFtVj98p9aRi2FvMp7zM8h0XOKyg&s"
+  },
+  {
+    "id": 11,
+    "name": "boAt Rockerz 450",
+    "brand": "boAt",
+    "price": 1499,
+    "category": "audio",
+    "rating": 4.2,
+      
+     
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4vIETYksX8R3vvPkFe-w6dM7PQLsVyjR5To31frp1w&s"
+  },
+  {
+    "id": 12,
+    "name": "boAt Nirvana 751",
+    "brand": "boAt",
+    "price": 3999,
+    "category": "audio",
+    "rating": 4.3,
+      
+     
+    "color": "white",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFnbGmhiJtNPgxaxI56Q4I4OVI74q6Jdi8dTvVDEHlA&s=10"
+  },
+  {
+    "id": 13,
+    "name": "Sennheiser Momentum 4",
+    "brand": "Sennheiser",
+    "price": 29999,
+    "category": "audio",
+    "rating": 4.7,
+      
+     
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDryAgOPdRlYUKG9DA4tcBENtxY-Zw0EXRCor4HyfzQ&s=10"
+  },
+  {
+    "id": 14,
+    "name": "Marshall Major V",
+    "brand": "Marshall",
+    "price": 16999,
+    "category": "audio",
+    "rating": 4.6,
+      
+     
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq46hSt5tz5XU9XWBi7lrCFYD3MEW03G5kRtPHWa3qTw&s=10"
+  },
+  {
+    "id": 15,
+    "name": "Bose QuietComfort",
+    "brand": "Bose",
+    "price": 24999,
+    "category": "audio",
+    "rating": 4.7,
+      
+     
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSlVksVjFljdL8o7yaCFWvePSLZ3RXTlsepAkLo-KeQ&s=10"
+  },
+  {
+    "id": 16,
+    "name": "Canon EOS R50",
+    "brand": "Canon",
+    "price": 74999,
+    "category": "cameras",
+    "rating": 4.7,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Lvm1BRjbkmRFI8BvQzjCp7L6SKMR1-67GSdne4AwoQ&s=10"
+  },
+  {
+    "id": 17,
+    "name": "Canon EOS R10",
+    "brand": "Canon",
+    "price": 94999,
+    "category": "cameras",
+    "rating": 4.8,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslJyBwg6FGDgTU8DruI-I6duy266lsj9s3Z0qb0CNVg&s=10"
+  },
+  {
+    "id": 18,
+    "name": "Sony Alpha ZV-E10",
+    "brand": "Sony",
+    "price": 69999,
+    "category": "cameras",
+    "rating": 4.6,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuuPkSwMID2ddMx2zEc-33bMrO1UECHgvcXVa7_gW5g&s=10"
+  },
+  {
+    "id": 19,
+    "name": "Sony Alpha A6700",
+    "brand": "Sony",
+    "price": 129999,
+    "category": "cameras",
+    "rating": 4.8,
+    "color": "Black",
+    "image": "https://x.imastudent.com/content/0074060_sony-a6700-mirrorless-camera-with-16-50mm-ii-lens_500.png"
+  },
+  {
+    "id": 20,
+    "name": "Nikon Z50",
+    "brand": "Nikon",
+    "price": 82999,
+    "category": "cameras",
+    "rating": 4.5,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Az6TAKTyAgdkv_rWGeENV9_riZ4c2ADBLF65SNwoAA&s=10"
+  },
+  {
+    "id": 21,
+    "name": "Nikon Z6 II",
+    "brand": "Nikon",
+    "price": 159999,
+    "category": "cameras",
+    "rating": 4.8,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrk7qxbOjGsKu4HowHrqBRH9W7JhbX74fpK1-j0_Vvjw&s=10"
+  },
+  {
+    "id": 22,
+    "name": "Fujifilm X-S20",
+    "brand": "Fujifilm",
+    "price": 119999,
+    "category": "cameras",
+    "rating": 4.8,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcnghggdfCGZO8W8khO2dqKQcddkIrSNw915MrT6wpQ&s"
+  },
+  {
+    "id": 23,
+    "name": "Fujifilm X-T5",
+    "brand": "Fujifilm",
+    "price": 149999,
+    "category": "cameras",
+    "rating": 4.9,
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAvDWnqtuiKVZxT64TiT4-RceHHyI0NQrqXvXsXJd0g&s"
+  },
+  {
+    "id": 24,
+    "name": "GoPro HERO 13",
+    "brand": "GoPro",
+    "price": 49999,
+    "category": "cameras",
+    "rating": 4.6,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLnzWs6hQvHbjZF3y8O8lBzY9MeHHjKreMcHSHRqP4kA&s=10"
+  },
+  {
+    "id": 25,
+    "name": "GoPro HERO 12",
+    "brand": "GoPro",
+    "price": 39999,
+    "category": "cameras",
+    "rating": 4.5,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6FW_Ct-Z5Ma-jHajWWLPzca1uZMpiTkB-ASS1BdYuw&s"
+  },
+  {
+    "id": 26,
+    "name": "DJI Osmo Action 4",
+    "brand": "DJI",
+    "price": 36999,
+    "category": "cameras",
+    "rating": 4.6,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTv840fN45Hc4tnBE1wRt7avIWxlpWOiyIV_J8EE8Qw&s"
+  },
+  {
+    "id": 27,
+    "name": "DJI Pocket 3",
+    "brand": "DJI",
+    "price": 54999,
+    "category": "cameras",
+    "rating": 4.7,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0IcBdmHsqJyGMIAk_v-uyjHI7maa0uDWOIdYfdQN4w&s=10"
+  },
+  {
+    "id": 28,
+    "name": "Panasonic Lumix G95",
+    "brand": "Panasonic",
+    "price": 89999,
+    "category": "cameras",
+    "rating": 4.5,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR82NhAcic5gBdIhMkxTh6oACZygPWkzcmnoNpuzUKQCg&s=10"
+  },
+  {
+    "id": 29,
+    "name": "Insta360 X4",
+    "brand": "Insta360",
+    "price": 54999,
+    "category": "cameras",
+    "rating": 4.7,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAAkVOFhgmmaRT4TAYf6bTKW5hBpLOV-msfirgfPeOg&s"
+  },
+  {
+    "id": 30,
+    "name": "Canon PowerShot V10",
+    "brand": "Canon",
+    "price": 44999,
+    "category": "cameras",
+    "rating": 4.4,
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCXsuHaHEQq8sm4IxZYGVrxpKKGgc_SVYuP4cqu1KCQ&s=10"
+  },
+  {
+    "id": 31,
+    "name": "PlayStation 5 Slim",
+    "brand": "Sony",
+    "price": 54999,
+    "category": "gaming",
+    "rating": 4.8,
+    "storage": "1TB SSD",
+    "ram": "16GB",
+    "color": "White",
+    "type": "console",
+    "image": "https://www.designinfo.in/wp-content/uploads/nc/p/5/1/9/2/3/51923-485x485.jpg"
+  },
+  {
+    "id": 32,
+    "name": "PlayStation 5 Pro",
+    "brand": "Sony",
+    "price": 79999,
+    "category": "gaming",
+    "rating": 4.9,
+    "storage": "2TB SSD",
+    "ram": "16GB",
+    "color": "White",
+    "type": "console",
+    "image": "https://m.media-amazon.com/images/I/51fRDc+9ajL.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "price": 54990,
+    "category": "gaming",
+    "rating": 4.8,
+    "storage": "1TB SSD",
+    "ram": "16GB",
+    "color": "Black",
+    "type": "console",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsV5gi0n3kVocOXX5IeWBTSXR2ndp0MkqC_aQBbq2ILw&s=10"
+  },
+  {
+    "id": 34,
+    "name": "Xbox Series S",
+    "brand": "Microsoft",
+    "price": 34990,
+    "category": "gaming",
+    "rating": 4.6,
+    "storage": "512GB SSD",
+    "ram": "10GB",
+    "color": "White",
+    "type": "console",
+    "image": "https://bankofelectronics.com/7994-medium_default/microsoft-xbox-series-s-black-1tb-open-box.jpg"
+  },
+  {
+    "id": 35,
+    "name": "DualSense Wireless Controller",
+    "brand": "Sony",
+    "price": 6999,
+    "category": "gaming",
+    "rating": 4.7,
+    "type": "controller",
+    "color": "Blue",
+    "image": "https://shopatsc.com/cdn/shop/files/DualSense_01_PR_CobaltBlue_sRGB_WithNotice.jpg?v=1698733182"
+  },
+  {
+    "id": 36,
+    "name": "Xbox Wireless Controller",
+    "brand": "Microsoft",
+    "price": 5999,
+    "category": "gaming",
+    "rating": 4.6,
+    "type": "controller",
+    "color": "Red",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A3xXXqbN0PqJ9SVnzYG94Z_6xfWExcuMRTDjgdGwLw&s"
+  },
+  {
+    "id": 37,
+    "name": "Meta Quest 3",
+    "brand": "Meta",
+    "price": 49999,
+    "category": "gaming",
+    "rating": 4.7,
+    "storage": "512GB",
+    "ram": "8GB",
+    "color": "White",
+    "type": "console",
+    "image": "https://m.media-amazon.com/images/I/51XYgT4zCiL.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Meta Quest 3S",
+    "brand": "Meta",
+    "price": 32999,
+    "category": "gaming",
+    "rating": 4.5,
+    "storage": "128GB",
+    "ram": "8GB",
+    "color": "White",
+    "type": "console",
+    "image": "https://xonevo.com/2629-large_default/meta-quest-3s.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Logitech G29 Racing Wheel",
+    "brand": "Logitech",
+    "price": 29999,
+    "category": "gaming",
+    "rating": 4.6,
+    "type": "wheel",
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwftCRAYgSPgfMPkp2eBjUdEr2DJGkuYL42DWVaTS1w&s=10"
+  },
+  {
+    "id": 40,
+    "name": "Razer Wolverine V2",
+    "brand": "Razer",
+    "price": 11999,
+    "category": "gaming",
+    "rating": 4.4,
+    "type": "controller",
+    "color": "Black",
+    "image": "https://m.media-amazon.com/images/I/71SVPebYaRL.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "price": 31999,
+    "category": "gaming",
+    "rating": 4.7,
+    "storage": "64GB",
+    "ram": "4GB",
+    "color": "White",
+    "type": "console",
+    "image": "https://m.media-amazon.com/images/I/71O4rtiSpqL.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Steam Deck OLED",
+    "brand": "Valve",
+    "price": 54999,
+    "category": "gaming",
+    "rating": 4.6,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Black",
+    "type": "console",
+    "image": "https://bankofelectronics.com/7467-medium_default/valve-steam-deck-oled-handheld-gaming-console-512gb-ssd-black.jpg"
+  },
+  {
+    "id": 43,
+    "name": "PlayStation Portal",
+    "brand": "Sony",
+    "price": 18999,
+    "category": "gaming",
+    "rating": 4.5,
+    "type": "console",
+    "color": "White",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZZ74lkT4YHtzuksx7j3K6S4enhVqXsFzAakJAy62dQ&s=10"
+  },
+  {
+    "id": 44,
+    "name": "Kiddily PVP",
+    "brand": "Kiddily",
+    "price": 3999,
+    "category": "gaming",
+    "rating": 4.4,
+    "type": "console",
+    "color": "Black",
+    "image": "https://rukminim3.flixcart.com/image/480/640/xif0q/handheld-gamng-console/n/j/t/pvp-station-hand-held-video-game-kid-s-lcd-display-pocket-game-original-imaghcqyvyuark6c.jpeg?q=90"
+  },
+  {
+    "id": 45,
+    "name": "Sony PSP",
+    "brand": "Sony",
+    "price": 8999,
+    "category": "gaming",
+    "rating": 4.6,
+    "type": "console",
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTijpVvcVrETLiStUWtOZYtu1EIOc3MileXrErOBQfPcw&s=10"
+  },
+  {
+    "id": 46,
+    "name": "LG 8kg Front Load Washing Machine",
+    "brand": "LG",
+    "price": 42999,
+    "type":"Washing",
+    "category": "homeAppliances",
+    "rating": 4.5,
+      
+      
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0YiRF1Y6yRS2lpnAeXu8AHj2OwkmrgzS4oMlZgLAWA&s"
+  },
+  {
+    "id": 47,
+    "name": "Samsung 8kg Washing Machine",
+    "brand": "Samsung",
+    "price": 39999,
+    "category": "homeAppliances",
+    "rating": 4.4,
+    "type":"Washing",
+      
+      
+    "color": "White",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-zPbymtpvE7aL6oLOc-1ZTINhUbUb_jKZuhw8W6myg&s=10"
+  },
+  {
+    "id": 48,
+    "name": "Whirlpool 7.5kg Washing Machine",
+    "brand": "Whirlpool",
+    "price": 32999,
+    "category": "homeAppliances",
+    "rating": 4.3,
+    "type":"Washing",
+      
+      
+    "color": "Grey",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQhC5vJ6oPPbx8O8vJqfZTT6rtiiSknh3MucM64VWLA&s=10"
+  },
+  {
+    "id": 60,
+    "name": "Voltas 1.5 Ton AC",
+    "brand": "Voltas",
+    "price": 36999,
+    "category": "homeAppliances",
+    "rating": 4.3,
+      
+    "type":"AC",
+      
+    "color": "White",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTomw2tposdS9B4X9upSKL4i36WHnghXR5XL6sWH9Hg&s=10"
+  },
+  {
+    "id": 49,
+    "name": "LG 1.5 Ton Split AC",
+    "brand": "LG",
+    "price": 44999,
+    "category": "homeAppliances",
+    "rating": 4.5,
+      
+    "type":"AC",
+      
+    "color": "White",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9SNYDf3FbpznsuVYA3ZxfRcx-_33JLcl7G2u7XmTAg&s=10"
+  },
+  {
+    "id": 50,
+    "name": "Daikin 1.5 Ton Split AC",
+    "brand": "Daikin",
+    "price": 49999,
+    "category": "homeAppliances",
+    "rating": 4.6,
+      
+    "type":"AC",
+
+    "color": "White",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnroLnxtw-lGzVHpUKCAc2weoiSqDwkxdMbe_RcTMwQ&s=10"
+  },
+  {
+    "id": 51,
+    "name": "Samsung 236L Refrigerator",
+    "brand": "Samsung",
+    "price": 31999,
+    "category": "homeAppliances",
+    "rating": 4.5,
+    "storage": "236L",
+        "type":"fridge",
+
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtt6p1NLi-htzVaRpoyu3s1vQA16-ris8q0PNgq_EmQ&s=10"
+  },
+  {
+    "id": 52,
+    "name": "LG 260L Smart Refrigerator",
+    "brand": "LG",
+    "price": 38999,
+    "category": "homeAppliances",
+    "rating": 4.6,
+    "storage": "260L",
+      "type":"fridge",
+
+    "color": "Frost",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jAyCLRhiiYwnY6ZlnItwtDNPa0l0E3ihZ9kTuH5yCw&s=10"
+  },
+  {
+    "id": 53,
+    "name": "Whirlpool 265L Refrigerator",
+    "brand": "Whirlpool",
+    "price": 34999,
+    "category": "homeAppliances",
+    "rating": 4.4,
+    "storage": "265L",
+          "type":"fridge",
+
+    "color": "Metalic Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QR11H6lLMXj6k3vNk0f9iEV2k6dQ-MFcJoOlHg35zQ&s"
+  },
+  {
+    "id": 54,
+    "name": "Philips Air Fryer",
+    "brand": "Philips",
+    "price": 12999,
+    "category": "homeAppliances",
+    "rating": 4.4,
+    "storage": "6.2L",
+          "type":"airfryer",
+
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJk5pdCn3VIjqjG09CnpGxPs8EVu68oYkZzIzKsxk7kQ&s=10"
+  },
+  {
+    "id": 55,
+    "name": "Prestige Air Fryer",
+    "brand": "Prestige",
+    "price": 7999,
+    "category": "homeAppliances",
+    "rating": 4.3,
+    "storage": "4.5L",
+          "type":"airfryer",
+
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwX0UaZhDmfiJcPqhKAgs_BrP3vpGqYpNf4hRhXEBNw&s=10"
+  },
+  {
+    "id": 56,
+    "name": "Dyson V12 Vacuum Cleaner",
+    "brand": "Dyson",
+    "price": 49999,
+    "category": "homeAppliances",
+    "rating": 4.7,
+      
+          "type":"vacuumcleaner",
+
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-BANGuSo6s623pCDEANanrLWgYZcZY5GdccjaowRzw&s=10"
+  },
+  {
+    "id": 57,
+    "name": "Eureka Forbes Vacuum Cleaner",
+    "brand": "Eureka Forbes",
+    "price": 11999,
+    "category": "homeAppliances",
+    "rating": 4.2,
+      
+          "type":"vacuumcleaner",
+
+    "color": "Red",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8KNxC6sn6J_V3xdIF-J2_QFqAO6EKLjehXLmaVmVEQ&s=10"
+  },
+  {
+    "id": 58,
+    "name": "Bajaj Room Heater",
+    "brand": "Bajaj",
+    "price": 3999,
+    "category": "homeAppliances",
+    "rating": 4.2,
+      
+          "type":"heater",
+
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC0cjn1sM6haoLT8-puo8ber2mRAJCJctwGyvUByPL4g&s=10"
+  },
+  {
+    "id": 59,
+    "name": "Philips Mixer Grinder",
+    "brand": "Philips",
+    "price": 6999,
+    "category": "homeAppliances",
+    "rating": 4.4,
+          "type":"grinder",
+
+      
+    "color": "White",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq160nUxUMkzy1MyCMkpQxQzGGdGFTYYuvsGasg1PUfw&s=10"
+  },
+    {
+    "id": 61,
+    "name": "MacBook Air M3",
+    "brand": "Apple",
+    "price": 99999,
+    "category": "laptops",
+    "rating": 4.8,
+    "storage": "256GB SSD",
+    "ram": "8GB",
+    "color": "Midnight",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR41FsoAopcNFLoiF2mTKTaBFRJfklwZVdoSXu1rgys2xBWoQ520odlXXg&s=10"
+  },
+  {
+    "id": 62,
+    "name": "MacBook Air M2",
+    "brand": "Apple",
+    "price": 84999,
+    "category": "laptops",
+    "rating": 4.7,
+    "storage": "256GB SSD",
+    "ram": "8GB",
+    "color": "Space Grey",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTKz_RfXM-WIVno5wFln08RGPYZDvCwaL43UE_xwVzg&s=10"
+  },
+  {
+    "id": 63,
+    "name": "Dell Inspiron 15",
+    "brand": "Dell",
+    "price": 62999,
+    "category": "laptops",
+    "rating": 4.4,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWtT6ZChziUC1zEH2qVO3lfS27cEy4YPTqU_34atDyQ&s=10"
+  },
+  {
+    "id": 64,
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "price": 114999,
+    "category": "laptops",
+    "rating": 4.7,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__V0CUPHW44PR3rhrmNBBpvPxfItJ4_Um83Lsrfbp0A&s=10"
+  },
+  {
+    "id": 65,
+    "name": "HP Pavilion 14",
+    "brand": "HP",
+    "price": 59999,
+    "category": "laptops",
+    "rating": 4.3,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5OlPj5steCy9j0d7Hv1Fqqnvp9EAmrAzz1GLe8sJHg&s=10"
+  },
+  {
+    "id": 66,
+    "name": "HP Envy x360",
+    "brand": "HP",
+    "price": 89999,
+    "category": "laptops",
+    "rating": 4.6,
+    "storage": "1TB SSD",
+    "ram": "16GB",
+    "color": "Black",
+    "image": "https://m.media-amazon.com/images/I/61Ov+r2inAL.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Lenovo IdeaPad Slim 5",
+    "brand": "Lenovo",
+    "price": 64999,
+    "category": "laptops",
+    "rating": 4.5,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Grey",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmKI5q9h42DoV73N7X0mraGp8Gy6DTgKVCybT5JH4GFA&s=10"
+  },
+  {
+    "id": 68,
+    "name": "Lenovo Yoga 7",
+    "brand": "Lenovo",
+    "price": 84999,
+    "category": "laptops",
+    "rating": 4.6,
+    "storage": "1TB SSD",
+    "ram": "16GB",
+    "color": "Storm Grey",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAI4ctJ-tk-gkW7HIBifhCFVnuif0kcAf7uBFJ6JAdA&s=10"
+  },
+  {
+    "id": 69,
+    "name": "ASUS Vivobook 15",
+    "brand": "ASUS",
+    "price": 54999,
+    "category": "laptops",
+    "rating": 4.4,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_3AcN3Nf5oTUY7uuSsoKVxHAvbf-GIlEws5A5lKPeA&s=10"
+  },
+  {
+    "id": 70,
+    "name": "ASUS TUF Gaming A15",
+    "brand": "ASUS",
+    "price": 54999,
+    "category": "laptops",
+    "rating": 4.7,
+    "storage": "512GB SSD",
+    "ram": "8GB",
+    "color": "Metallic Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9EI72RTglysgmvIbqkJc-pK-MBIIsmwAZ104Gpf0C7A&s=10"
+  },
+  {
+    "id": 71,
+    "name": "Acer Aspire 5",
+    "brand": "Acer",
+    "price": 49999,
+    "category": "laptops",
+    "rating": 4.2,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Grey",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkt5yTYX8lBhAyNYb7TnDi2XTYzdBvHMQC-S-0OpMUwg&s=10"
+  },
+  {
+    "id": 72,
+    "name": "Acer Swift Go 14",
+    "brand": "Acer",
+    "price": 69999,
+    "category": "laptops",
+    "rating": 4.5,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2Fszq6clIEfLEZaxItY_P9TtStX1cyfrtxzz1kKQHg&s=10"
+  },
+  {
+    "id": 73,
+    "name": "Microsoft Surface Laptop",
+    "brand": "Microsoft",
+    "price": 109999,
+    "category": "laptops",
+    "rating": 4.6,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Platinum",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8oNCV7csoInS5ym2pfrzq_-OtEqXpCVaX7EPC7LPWIQ&s=10"
+  },
+  {
+    "id": 74,
+    "name": "Samsung Galaxy Book4",
+    "brand": "Samsung",
+    "price": 79999,
+    "category": "laptops",
+    "rating": 4.5,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Silver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADhNjSNGsYUyz5MGrg_CoEiwGBvEPlTaSQQBnh3eEQg&s=10"
+  },
+  {
+    "id": 75,
+    "name": "LG Gram 14",
+    "brand": "LG",
+    "price": 99999,
+    "category": "laptops",
+    "rating": 4.6,
+    "storage": "512GB SSD",
+    "ram": "16GB",
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrVop4WcZCfNze1rY-vet5g0Ouc6uh60EeR_BtU6KVw&s=10"
+  },
+  {
+"id": 76,
+"name": "Samsung Galaxy S25",
+"brand": "Samsung",
+"price": 74999,
+"category": "mobiles",
+"rating": 4.5,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Alice blue",
+"image": "/images/mobiles/samsung25.jpg"
+},
+{
+"id": 77,
+"name": "Samsung Galaxy A56",
+"brand": "Samsung",
+"price": 41999,
+"category": "mobiles",
+"rating": 4.3,
+"storage": "256GB",
+"ram": "8GB",
+"color": "Green apple",
+"image": "/images/mobiles/samsunga56.jpg"
+},
+{
+"id": 78,
+"name": "Samsung Galaxy S24 FE",
+"brand": "Samsung",
+"price": 54999,
+"category": "mobiles",
+"rating": 4.4,
+"storage": "128GB",
+"ram": "8GB",
+"color": "Graphite",
+"image": "/images/mobiles/samsungs24fe.jpg"
+},
+{
+"id": 79,
+"name": "iPhone 16",
+"brand": "Apple",
+"price": 69999,
+"category": "mobiles",
+"rating": 4.7,
+"storage": "128GB",
+"ram": "8GB",
+"color": "Black",
+"image": "/images/mobiles/iPhone16.jpg"
+},
+{
+"id": 80,
+"name": "iPhone 16 Plus",
+"brand": "Apple",
+"price": 79999,
+"category": "mobiles",
+"rating": 4.6,
+"storage": "128GB",
+"ram": "8GB",
+"color": "Ultramarine",
+"image": "/images/mobiles/iPhone16plus.jpg"
+},
+{
+"id": 81,
+"name": "iPhone 15",
+"brand": "Apple",
+"price": 59999,
+"category": "mobiles",
+"rating": 4.6,
+"storage": "128GB",
+"ram": "6GB",
+"color": "Blue",
+"image": "/images/mobiles/iPhone15.jpg"
+},
+{
+"id": 82,
+"name": "OnePlus 13",
+"brand": "OnePlus",
+"price": 69999,
+"category": "mobiles",
+"rating": 4.5,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Black",
+"image": "/images/mobiles/oneplus13.jpg"
+},
+{
+"id": 83,
+"name": "OnePlus 13R",
+"brand": "OnePlus",
+"price": 42999,
+"category": "mobiles",
+"rating": 4.4,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Nebula Noir",
+"image": "/images/mobiles/oneplus13r.jpg"
+},
+{
+"id": 84,
+"name": "Google Pixel 9",
+"brand": "Google",
+"price": 74999,
+"category": "mobiles",
+"rating": 4.5,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Obsidian",
+"image": "/images/mobiles/googlepixel9.jpg"
+},
+{
+"id": 85,
+"name": "Google Pixel 9a",
+"brand": "Google",
+"price": 49999,
+"category": "mobiles",
+"rating": 4.4,
+"storage": "256GB",
+"ram": "8GB",
+"color": "Obsidian",
+"image": "/images/mobiles/googlepixel9a.jpg"
+},
+{
+"id": 86,
+"name": "Nothing Phone 3",
+"brand": "Nothing",
+"price": 44999,
+"category": "mobiles",
+"rating": 4.3,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Black",
+"image": "/images/mobiles/nothing3.jpg"
+},
+{
+"id": 87,
+"name": "IQOO Z10",
+"brand": "Iqoo",
+"price": 21999,
+"category": "mobiles",
+"rating": 4.7,
+"storage": "512GB",
+"ram": "12GB",
+"color": "Black",
+"image": "/images/mobiles/iqooz10.jpg"
+},
+{
+"id": 88,
+"name": "Vivo X200",
+"brand": "Vivo",
+"price": 65999,
+"category": "mobiles",
+"rating": 4.5,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Cosmos Black",
+"image": "/images/mobiles/viviox200.jpg"
+},
+{
+"id": 89,
+"name": "OPPO Find X8",
+"brand": "OPPO",
+"price": 69999,
+"category": "mobiles",
+"rating": 4.4,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Space Black",
+"image": "/images/mobiles/oppofindx8.jpg"
+},
+{
+"id": 90,
+"name": "Realme GT 7",
+"brand": "Realme",
+"price": 39999,
+"category": "mobiles",
+"rating": 4.3,
+"storage": "256GB",
+"ram": "12GB",
+"color": "Ice Blue",
+"image": "/images/mobiles/realmegt7.jpg"
+},
+{
+    "id": 91,
+    "name": "Samsung 55-inch QLED 4K TV",
+    "brand": "Samsung",
+    "price": 84999,
+    "category": "tv&entertainment",
+    "rating": 4.6,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaCuMMIhPHEFfrLKk9P4cug2_OwBOdXXVRQ5OG3JzumiNzTwAk7RPsOo&s=10"
+  },
+  {
+    "id": 92,
+    "name": "Samsung 65-inch Neo QLED",
+    "brand": "Samsung",
+    "price": 139999,
+    "category": "tv&entertainment",
+    "rating": 4.8,
+      
+      
+    "color": "Black",
+    "image": "https://rukminim3.flixcart.com/image/480/640/xif0q/television/o/f/k/-original-imahy9qxjjvvfg8y.jpeg?q=90"
+  },
+  {
+    "id": 93,
+    "name": "LG 55-inch OLED 4K TV",
+    "brand": "LG",
+    "price": 119999,
+    "category": "tv&entertainment",
+    "rating": 4.8,
+      
+      
+    "color": "Black",
+    "image": "https://m.media-amazon.com/images/I/71gpQTmFEsL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 94,
+    "name": "LG 65-inch OLED TV",
+    "brand": "LG",
+    "price": 159999,
+    "category": "tv&entertainment",
+    "rating": 4.9,
+      
+      
+    "color": "Black",
+    "image": "https://m.media-amazon.com/images/I/81tNIlr1kSL.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Sony Bravia 55-inch 4K TV",
+    "brand": "Sony",
+    "price": 94999,
+    "category": "tv&entertainment",
+    "rating": 4.7,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfs6bSlOL1_iU97x3B27FUctWnRvPGgOKR7OXaXcUUOA&s=10"
+  },
+  {
+    "id": 96,
+    "name": "Sony Bravia 65-inch 4K TV",
+    "brand": "Sony",
+    "price": 129999,
+    "category": "tv&entertainment",
+    "rating": 4.8,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfKYayaWU3P7DKSfXJXqao-32UHE4uQ44Jz5PcN6m3A&s=10"
+  },
+  {
+    "id": 97,
+    "name": "OnePlus 55-inch 4K TV",
+    "brand": "OnePlus",
+    "price": 44999,
+    "category": "tv&entertainment",
+    "rating": 4.3,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGJQm0xXHjDF6FOyhpBY7P0ftEz4_3R2HixTmy_XxUw&s=10"
+  },
+  {
+    "id": 98,
+    "name": "TCL 50-inch 4K TV",
+    "brand": "TCL",
+    "price": 38999,
+    "category": "tv&entertainment",
+    "rating": 4.2,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF961iLihqNE6wVtFXNzHZXpAWoFDP-DbEgFDBYNudPQ&s=10"
+  },
+  {
+    "id": 99,
+    "name": "TCL 65-inch QLED TV",
+    "brand": "TCL",
+    "price": 69999,
+    "category": "tv&entertainment",
+    "rating": 4.5,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHdTx7y2BSVnp61Aic7_fdAtzSfYLc1zNgrKqw3AC_RQ&s=10"
+  },
+  {
+    "id": 100,
+    "name": "Mi 55-inch X Pro TV",
+    "brand": "Xiaomi",
+    "price": 47999,
+    "category": "tv&entertainment",
+    "rating": 4.4,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtxGSTJLwpdtxQswqIxGDkZS83T1pUUfU4LHe2kivv9Q&s=10"
+  },
+  {
+    "id": 101,
+    "name": "Hisense 55-inch 4K TV",
+    "brand": "Hisense",
+    "price": 42999,
+    "category": "tv&entertainment",
+    "rating": 4.3,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_wlg36lQovGn44H7b1Kcqa46H3GaB9Fnq1n9g3vrPQ&s=10"
+  },
+  {
+    "id": 102,
+    "name": "Amazon Fire TV Stick 4K",
+    "brand": "Amazon",
+    "price": 5999,
+    "category": "tv&entertainment",
+    "rating": 4.5,
+    "storage": "8GB",
+    "ram": "2GB",
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR6XXf_ZEpk-cVEMC5dPKWAxqK2GM3JTPCl8PeYz0Kqw&s=10"
+  },
+  {
+    "id": 103,
+    "name": "Apple TV 4K",
+    "brand": "Apple",
+    "price": 14900,
+    "category": "tv&entertainment",
+    "rating": 4.7,
+    "storage": "128GB",
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_m6_VROH6ksIX619FycCEPlHqU7sP8lRPeal8hmmFIw&s=10"
+  },
+  {
+    "id": 104,
+    "name": "LG 97-inch OLED 4K TV",
+    "brand": "JBL",
+    "price": 1199999,
+    "category": "tv&entertainment",
+    "rating": 4.6,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Xm45bvX7nJSv30L9TtYtz8c7kqVAIvDWNtJHLj50ug&s"
+  },
+  {
+    "id": 105,
+    "name": "Panasonic 32-inch LED TV",
+    "brand": "Panasonic",
+    "price": 21999,
+    "category": "tv&entertainment",
+    "rating": 4.5,
+      
+      
+    "color": "Black",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB2n_Cm4Vgi4y713-M1EjAx04tM1VihqdJ5NIuYegow&s=10"
+  }
+]

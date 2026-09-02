@@ -1,0 +1,179 @@
+nav{
+    display: flex;
+    background-color: #001824;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3px 0px;
+    
+}
+.logo{
+    width: 135px;
+    cursor: pointer;
+}
+
+.lo-ca
+{
+    display: flex;
+    width: 180px;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+   
+}
+.lo-ca i{
+    cursor: pointer;
+}
+.lo-ca button{
+    font-size: 15px;
+    background-color: #001824;
+    border: 1px solid white;
+    font-weight: bold;
+    padding: 3px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.lo-ca button:hover
+{
+    transform: scale(1.05);
+}
+.count
+{
+    position: absolute;
+    top: -4px;
+    right: 25px;
+    font-size: 11px;
+    background-color: red;
+    padding:  1px 4px 1px 4px;
+    border-radius: 20px;
+}
+.cart-empty
+{
+    display: none;
+}
+.search-box i::before
+{
+    padding: 6px 10px ;
+    background-color: #000000;
+    border: none;
+    border-radius: 0 8px 8px 0;
+  
+}
+.search-box button 
+{
+   
+    border-radius: 6px 0px 0px 6px;
+}
+.search-box
+{
+    width: 30%;
+    display: flex;
+}
+.search-box button {
+ 
+    padding: 0;
+    cursor: pointer;
+  
+}
+.inp-box
+{
+   width: 100%;
+   padding: 2px 0px 2px 6px;
+   color: #001824;
+   border: none;
+   border-radius: 6px 0px 0px 6px;
+}
+.login-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+.login-box {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.login-box p a {color: rgb(26, 26, 192);cursor: pointer;}
+.lo-bu
+{
+    background-color: #001824;
+    padding: 5px 0px;
+    border-radius: 3px;
+}
+.close
+{
+    color: #001824;
+    width: fit-content;
+    background-color: #fff;
+    font-size: large;
+    font-weight: bold;
+}
+.login-inner
+{
+    display: flex;
+    justify-content: space-between;
+}
+#head
+{
+    color: #000000;
+}
+.login-box input
+{
+    padding: 3px 10px;
+    color: #000000;
+    margin: 7px 0px;
+}
+.search-box {
+    display: flex;
+    align-items: center;
+}
+
+.inp-box {
+    display: block;
+}
+.login-icon {
+    display: none;
+}
+@media screen and (max-width:768px) 
+{
+    nav{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1000;
+    }    
+      .inp-box {
+        display: none;
+        font-size: 9px;
+        padding: 7px 3px;
+    }
+
+    .search-box.search-active .inp-box {
+        display: block;
+    }
+        .login-text {
+        display: none;
+    }
+    .lo-ca{width: fit-content;}
+
+    .login-icon {
+        display: block;
+    }
+
+    .lo-ca button {
+        padding: 0 15px;
+        border: 0px ;
+        background: transparent;
+    }
+}

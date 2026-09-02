@@ -1,0 +1,59 @@
+.links
+{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    align-items: center;
+}
+.links li
+{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    white-space: nowrap;
+   
+}
+.links li a
+{
+    margin: 0px 3px;
+}
+.sub-nav
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #011018;
+    overflow-x: auto;
+}
+.sub-nav::-webkit-scrollbar
+{
+    display: none;
+}
+.links i
+{
+    font-size: 13px;
+    margin: 0px 0px;
+  
+}
+.links li {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.links li:hover 
+{
+  color: #00c6ff;
+}
+@media screen and (max-width: 768px) {
+
+    .sub-nav {
+        position: fixed;
+        top: 6%;
+        width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+}
