@@ -51,7 +51,7 @@
 
     .sub-nav {
         position: fixed;
-        top: 6%;
+        top: 60px;
         width: 100%;
         overflow-x: auto;
         white-space: nowrap;

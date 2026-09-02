@@ -131,9 +131,10 @@
         width: 100%;
        }
        .pro-header{width:100%;display: flex;align-items: center;justify-content: space-evenly}
-       .pro-spec{width:100%;display: flex;align-items: center;padding-left: 10%;}
+       .pro-spec{width:100%;display: flex;align-items: center;padding-left: 5%;}
        .pro-para{width: 100%;}
        .long-details{width:100%;display: flex;align-items: center;}
        .long-details ul{width: 100%;margin:0px;padding: 5% ;}
        .long-details ul li{width: 100%;margin:0px;padding: 3px 5% ;}
+       .popup{position: fixed;top: 15%;right: 2%;}
 }

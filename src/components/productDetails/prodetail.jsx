@@ -65,10 +65,10 @@ function Prodetail() {
 
                     <div className="pro-spec">
                         {chosen.ram !== undefined && (
-                            <p>RAM {chosen.ram} |</p> )}
+                            <p>RAM {chosen.ram}|</p> )}
 
                         {chosen.storage !== undefined && (
-                            <p>STORAGE {chosen.storage} |</p> )}
+                            <p> STORAGE {chosen.storage}|</p> )}
 
                         {chosen.color !== undefined && (
                             <p> Color : {chosen.color.toUpperCase()} </p> )}
@@ -118,16 +118,6 @@ function Prodetail() {
                     </div>
                 </div>
             </div>
-
-
-            {/* Temporary content */}
-            <ul>
-                <li>Hello World</li>
-                <li>Hello World</li>
-                <li>Hello World</li>
-                <li>Hello World</li>
-                <li>Hello World</li>
-            </ul>
 
         </>
     );
