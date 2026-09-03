@@ -131,6 +131,7 @@
         width: 100%;
        }
        .pro-header{width:100%;display: flex;align-items: center;justify-content: space-evenly}
+       .pro-header h1{width: 160px;}
        .pro-spec{width:100%;display: flex;align-items: center;padding-left: 5%;}
        .pro-para{width: 100%;}
        .long-details{width:100%;display: flex;align-items: center;}
