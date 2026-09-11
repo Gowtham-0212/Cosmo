@@ -13,7 +13,8 @@ function Search()
   return (
   <>
     <div className="search-container" >
-        {filtered.map(
+        {filtered.length ===0 ? <h1 style={{marginLeft:'5%',marginTop:'5%'}}>Sorry no products match...</h1>:
+        filtered.map(
             item => (
                 <Products
                     key={item.id}
