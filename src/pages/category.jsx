@@ -79,7 +79,33 @@ function Category() {
 
 
     return (
-        <>
+        <> <div className="select">
+            <select value={brand} onChange={(e) => setBrand(e.target.value)}>
+                <option value="all">All Brands</option>
+                {brands.map((brandName) => (
+                    <option key={brandName} value={brandName}>
+                        {brandName}
+                    </option>
+                ))}
+            </select>
+
+            <select
+                value={selectedPrice}
+                onChange={(e) => setSelectedPrice(e.target.value)} >
+                <option value="all">All Prices</option>
+                <option value="30000">Below ₹30,000</option>
+                <option value="50000">₹30,000 - ₹50,000</option>
+                <option value="50001">Above ₹50,000</option>
+            </select>
+
+            <select value={sort} onChange={(e) => setSort(e.target.value)}>
+                <option value="all">Sort</option>
+                <option value="A to Z">A to Z</option>
+                <option value="Z to A">Z to A</option>
+                <option value="L to H">Low to High</option>
+                <option value="H to L">High to Low</option>
+            </select>
+            </div>
             <div className="container">
 
                 {sortedProducts.length === 0 ? (
