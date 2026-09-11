@@ -294,6 +294,16 @@ img {
   .info-card {
     padding: 20px;
   }
+
+  /* select css  */
+
+  .select
+  {
+    margin-top: 18px;
+    padding: 0px;
+    padding-left: 0%;
+    gap: 0px;
+  }
 }
 
 /* home screen styling */
@@ -442,11 +452,11 @@ img {
   display: flex;
   width: 100%;
   justify-content:flex-start ;
-  padding: 3px 30px 0px 30px;
-  gap: 10px;
+  padding: 3px 0% 0px 3%;
+  gap: 7px;
 }
 select {
-  padding: 10px 10px;
+  padding: 10px 0px 10px 5px;
   background-color: #001824;
   
 }
